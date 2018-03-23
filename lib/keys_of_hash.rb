@@ -7,6 +7,6 @@ class Hash
       end
       returning_arr
     end
-    
+
   end
 end
