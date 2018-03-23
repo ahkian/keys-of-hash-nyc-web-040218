@@ -5,7 +5,8 @@ class Hash
       if v == arguments
         returning_arr << k
       end
+      returning_arr
     end
-    returning_arr
+    
   end
 end
